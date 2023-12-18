@@ -1,0 +1,37 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "red"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "green"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "blue"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "circle"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "square"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "triangle"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": []
+}
